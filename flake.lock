@@ -23,17 +23,16 @@
         ]
       },
       "locked": {
+        "dirtyRev": "c60871a7fb56f66c9b4057bddc5326d4fa405164-dirty",
+        "dirtyShortRev": "c60871a-dirty",
         "lastModified": 1724747674,
-        "narHash": "sha256-cthXS5qWVK/Lo3Ok22d2DbQ+V1x4xExtYohQo1mdPec=",
-        "ref": "refs/heads/master",
-        "rev": "c60871a7fb56f66c9b4057bddc5326d4fa405164",
-        "revCount": 306,
+        "narHash": "sha256-6+t2NvNafy0FENWifY2mXTcph4TOV1Xkt8xSTJpM7wA=",
         "type": "git",
-        "url": "https://git.outfoxxed.me/outfoxxed/quickshell"
+        "url": "file:///home/ny/Documents/opensource/quickshell"
       },
       "original": {
         "type": "git",
-        "url": "https://git.outfoxxed.me/outfoxxed/quickshell"
+        "url": "file:///home/ny/Documents/opensource/quickshell"
       }
     },
     "root": {
